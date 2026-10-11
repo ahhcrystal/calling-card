@@ -35,8 +35,9 @@ export function CallingCard() {
           Career Focus
         </h2>
         <p className="mt-3 leading-relaxed text-neutral-700 text-pretty">
-  Pursuing a career in psychiatry or dermatology, and seeking roles that offer deeper
-  clinical exposure to either specialty.
+  Drawing on experience in medical assisting, nail care, and customer service, I am
+  pursuing a career in psychiatry or dermatology and seeking roles that offer greater
+  hands-on exposure to either specialty.
   </p>
       </section>
 
