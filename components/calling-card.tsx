@@ -35,14 +35,9 @@ export function CallingCard() {
           Career Focus
         </h2>
         <p className="mt-3 leading-relaxed text-neutral-700 text-pretty">
-          I bring hands-on experience in patient care as a medical assistant, along with
-          client-facing work as a nail technician and barista. I am working toward a long-term
-          career in psychiatry or dermatology.
-        </p>
-        <p className="mt-3 leading-relaxed text-neutral-700 text-pretty">
-          I am currently seeking opportunities that offer deeper clinical exposure to either
-          specialty, and I welcome conversations with professionals and teams in these fields.
-        </p>
+  Pursuing a career in psychiatry or dermatology, and seeking roles that offer deeper
+  clinical exposure to either specialty.
+  </p>
       </section>
 
       <footer className="mt-10">
