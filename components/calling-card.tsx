@@ -12,6 +12,7 @@ export function CallingCard() {
         <h1 className="mt-2 font-serif text-5xl leading-tight text-neutral-900 text-balance">
           Crystal Tran
         </h1>
+        <p className="mt-2 text-sm font-medium text-pink-600">Now on GitHub</p>
       </header>
 
       <section aria-labelledby="what-i-do" className="mt-8">
