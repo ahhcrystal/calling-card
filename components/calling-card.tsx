@@ -32,11 +32,16 @@ export function CallingCard() {
 
       <section aria-labelledby="about" className="mt-8 border-t border-pink-100 pt-8">
         <h2 id="about" className="text-xs font-medium uppercase tracking-[0.2em] text-pink-600">
-          A little more
+          Career Focus
         </h2>
         <p className="mt-3 leading-relaxed text-neutral-700 text-pretty">
-          Looking to pursue a career in either psychiatry or dermatology, and looking for roles
-          with more exposure in those fields.
+          I bring hands-on experience in patient care as a medical assistant, along with
+          client-facing work as a nail technician and barista. I am working toward a long-term
+          career in psychiatry or dermatology.
+        </p>
+        <p className="mt-3 leading-relaxed text-neutral-700 text-pretty">
+          I am currently seeking opportunities that offer deeper clinical exposure to either
+          specialty, and I welcome conversations with professionals and teams in these fields.
         </p>
       </section>
 
